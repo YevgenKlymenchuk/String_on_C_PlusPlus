@@ -1,5 +1,5 @@
 ========================================================================
-    CONSOLE APPLICATION : String_on_C_PlusPlus Project Overview
+	CONSOLE APPLICATION : String_on_C_PlusPlus Project Overview
 ========================================================================
 
 AppWizard has created this String_on_C_PlusPlus application for you.
@@ -9,32 +9,32 @@ make up your String_on_C_PlusPlus application.
 
 
 String_on_C_PlusPlus.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+	This is the main project file for VC++ projects generated using an Application Wizard.
+	It contains information about the version of Visual C++ that generated the file, and
+	information about the platforms, configurations, and project features selected with the
+	Application Wizard.
 
 String_on_C_PlusPlus.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+	This is the filters file for VC++ projects generated using an Application Wizard. 
+	It contains information about the association between the files in your project 
+	and the filters. This association is used in the IDE to show grouping of files with
+	similar extensions under a specific node (for e.g. ".cpp" files are associated with the
+	"Source Files" filter).
 
 String_on_C_PlusPlus.cpp
-    This is the main application source file.
+	This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named String_on_C_PlusPlus.pch and a precompiled types file named StdAfx.obj.
+	These files are used to build a precompiled header (PCH) file
+	named String_on_C_PlusPlus.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
-Other notes:
+Additional files:
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
+SString.h, SString.cpp
+	These files are present of String implementation on C++.
 
 /////////////////////////////////////////////////////////////////////////////
